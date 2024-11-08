@@ -3,7 +3,7 @@ para postar projetos
 da escola (alura)
 estou aprendendo html e css em casa e javascript
 na escola
-![](![](https://tenor.com/view/ikkaku-getting-bullied-bleach-squad11-lieuten-ikkaku-and-yachiru-gif-25295355)
+![](![]https://tenor.com/bLxqW.gif)
 
 
 
