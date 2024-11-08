@@ -3,7 +3,7 @@ para postar projetos
 da escola (alura)
 estou aprendendo html e css em casa e javascript
 na escola
-![](![]https://tenor.com/bLxqW.gif)
+![](https://tenor.com/bLxqW.gif)
 
 
 
